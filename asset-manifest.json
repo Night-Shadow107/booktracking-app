@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/booktracking-app23/static/css/main.717a4ba5.css",
+    "main.js": "/booktracking-app23/static/js/main.c536b9be.js",
+    "static/js/453.5e6bafd6.chunk.js": "/booktracking-app23/static/js/453.5e6bafd6.chunk.js",
+    "index.html": "/booktracking-app23/index.html",
+    "main.717a4ba5.css.map": "/booktracking-app23/static/css/main.717a4ba5.css.map",
+    "main.c536b9be.js.map": "/booktracking-app23/static/js/main.c536b9be.js.map",
+    "453.5e6bafd6.chunk.js.map": "/booktracking-app23/static/js/453.5e6bafd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.717a4ba5.css",
+    "static/js/main.c536b9be.js"
+  ]
+}
