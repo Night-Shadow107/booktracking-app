@@ -1,0 +1,21 @@
+.book-preview {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .book-preview img {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .book-preview h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .book-preview p {
+    margin: 5px 0;
+  }
+  
